@@ -1,0 +1,23 @@
+Acknowledgments
+---------------
+
+
+
+Libraries used (brief purpose):
+- pandas — data manipulation and TSV I/O
+- numpy — numeric operations
+- yfinance — downloading historical prices from Yahoo Finance
+- cvxpy — quadratic programming (min-variance & frontier)
+- scipy.optimize — SLSQP fallback optimizer
+(Keep/edit as needed to reflect what you actually used.)
+
+Generative AI usage (per course policy):
+- Tool: ChatGPT (used for code scaffolding and clarification).
+- I reviewed, executed, and verified all code and results.
+- Transcript links:
+
+Course-provided resources consulted:
+- https://github.com/bu-cds-dx704/dx704-project-01
+- https://github.com/bu-cds-omds/dx704-examples
+
+
